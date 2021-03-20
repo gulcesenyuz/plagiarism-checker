@@ -8,9 +8,6 @@
 #include <sstream>
 #include <map>
 
-//Gulce Kulahçıoğlu 1731380
-//Ali Eren Gedikoğlu 1729836
-//Turgay Barkın Turkşen 1802548
 
 namespace hash_space
 {
